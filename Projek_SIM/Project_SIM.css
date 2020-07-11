@@ -1,0 +1,43 @@
+/* Layout Utama */
+#Link_Button{
+	color: black;
+	text-decoration: none;
+}
+.body_Utama{
+	background-image: url(car.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+/* Layout Home */
+.body_Utama .Home_Layout{
+	margin: 15% auto;
+	width: 350px;
+}
+.body_Utama .Home_Layout .Kotak_Home{
+	background-color: #66ff99;
+	width: 20em;
+	border-radius: 15px;
+	border-color: #0099cc;
+}
+/* Layout Registrasi */
+.body_Utama .Registrasi_Layout{
+	margin: 5% auto;
+	width: 350px;
+}
+.body_Utama .Registrasi_Layout .Kotak_Registrasi{
+	background-color: white;
+	width: 20em;
+	border-radius: 15px;
+	border-color: #0099cc; 
+}
+/* Layout Data SIM */
+.body_Utama .Data_Layout{
+	margin: 10% auto;
+	width: 700px;
+}
+.body_Utama .Data_Layout .Kotak_Data{
+	background-color: white;
+	width: 43em;
+	border-radius: 15px;
+	border-color: #0099cc;
+}

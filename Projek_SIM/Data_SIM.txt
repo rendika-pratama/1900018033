@@ -1,0 +1,3 @@
+Acer|Berbah, Kalitirto|Yogyakarta|12-12-1998|Laki-Laki|167cm|Mahasiswa|C
+Sarah|Bantul, Yogyakarta|Medan|10-09-1995|Perempuan|150cm|Pramugari|A
+Wijaya|Sleman, Yogyakarta|Surabaya|04-07-1996|Laki-Laki|169cm|Supir Bus|B
